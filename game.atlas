@@ -1,0 +1,68 @@
+game.png
+size: 2048, 1024
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+NationIcons/The Ottoman Empire
+  rotate: false
+  xy: 454, 132
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitIcons/kemankeş
+  rotate: false
+  xy: 1133, 136
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Tsar Tank
+  rotate: false
+  xy: 1744, 460
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Serbian First Army
+  rotate: false
+  xy: 1281, 247
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1       
+UnitIcons/kemankes
+  rotate: false
+  xy: 1133, 136
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/akinci
+  rotate: false
+  xy: 1420, 722
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+UnitIcons/timarli_sipahi
+  rotate: false
+  xy: 1133, 136
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/pasha
+  rotate: false
+  xy: 1744, 460
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/yeniceri
+  rotate: false
+  xy: 1744, 460
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
